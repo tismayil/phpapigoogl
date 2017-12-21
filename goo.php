@@ -3,8 +3,7 @@
 ######################################################
 #
 #	© T.Ismayil (2017)
-#	© info@DOTphp.net
-#   © tehmezovismayil@gmail.com
+#       © tehmezovismayil@gmail.com
 #
 ######################################################
 
