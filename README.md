@@ -16,3 +16,14 @@ Get info shorted link
 The value here returns 0, which will return the value of json_encode.
 1, the answers are returned to you in json_decode
 
+If you want to create it you can use
+
+```php
+$goo->url("goo.gl/yPg8R8")->get("info");
+```
+
+or
+
+```php
+$goo->url("website.com")->get("short");
+```
