@@ -1,2 +1,4 @@
 # phpapigoogl
-Goo.gl Link Shorten php Api
+Goo.gl Google URL Shortener API V1.0
+
+
